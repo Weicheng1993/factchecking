@@ -1,0 +1,8 @@
+name Jake
+the highest gpa
+the minimun id
+name jake has id 10
+name Jake has id greater than 2
+id 3 does not have hobby tennis
+
+
